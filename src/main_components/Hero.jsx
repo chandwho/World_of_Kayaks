@@ -4,7 +4,7 @@ export default function Hero() {
   return (
     <div className='flex flex-col items-center px-10 pt-10 text-center'>
         <div className='md:w-[85%] text-center'>
-            <h1 className='text-5xl md:text-6xl xl:text-9xl font-extrabold mb-8'>KAYAKING</h1>
+            <h1 className='text-5xl md:text-6xl xl:text-8xl font-extrabold mb-8'>KAYAKING</h1>
             <p className='mb-6 text-sm md:text-[14px] px-20'>Take a 100% clear kayak guided tour with us today! 
                 We take you where there is a world of wonder around you, but also, under you!
             </p>
